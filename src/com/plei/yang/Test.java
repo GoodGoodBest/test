@@ -7,8 +7,8 @@ package com.plei.yang;
  */
 public class Test implements TestInterface{
     @Override
-    public void test() {
-        return;
+    public int test() {
+        return 2;
     }
 
     @Override
