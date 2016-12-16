@@ -13,7 +13,7 @@ public class Test implements TestInterface{
 
     @Override
     public void test1() {
-
+        return;
     }
 
     @Override
