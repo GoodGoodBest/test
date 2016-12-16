@@ -12,8 +12,8 @@ public class Test implements TestInterface{
     }
 
     @Override
-    public void test1() {
-        return 1;
+    public Integer test1() {
+        return null;
     }
 
     @Override
