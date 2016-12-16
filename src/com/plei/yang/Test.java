@@ -8,6 +8,6 @@ package com.plei.yang;
 public class Test {
 
     public static void main(String[] args){
-        System.out.print("hcgdfgdfgdelloWord!");
+        System.out.print("helloWord!");
     }
 }
